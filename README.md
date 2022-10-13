@@ -15,3 +15,5 @@ from sklearn.metrics.pairwise import cosine_similarity
 Term Frequency-Inverse Document Frequency (TF-IDF) vectors 
 
 Cosine Similarity
+
+Read more about the project here: [Building an Article Recommendation System Using Python](https://heartbeat.comet.ml/building-an-article-recommendation-system-using-python-fd26aba85b9c)
