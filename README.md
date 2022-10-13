@@ -11,5 +11,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 1. Collaborative filtering
 2. Content-based filtering 
 
-## Term Frequency-Inverse Document Frequency (TF-IDF) vectors 
-## Cosine Similarity
+Term Frequency-Inverse Document Frequency (TF-IDF) vectors 
+
+Cosine Similarity
