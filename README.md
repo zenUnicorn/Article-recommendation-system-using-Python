@@ -1,5 +1,5 @@
 # Article-recommendation-system-using-Python
-An article recommendation system built using Python, Jupyter notebook, Python libraries.
+An article recommendation system built using Python, Jupyter notebook, Python libraries (Pandas).
 
 ```python
 import pandas as pd
